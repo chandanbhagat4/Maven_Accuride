@@ -63,7 +63,7 @@ WebDriver driver;
 	}
 	
 	
-//	@Test(priority=5, enabled=falses)
+//	@Test(priority=5, enabled=false)
 //	public void increasingTheProductCountViaDirectField() throws InterruptedException
 //	{
 //		ProductDeatilsPage enteredProductQuanaty = PageFactory.initElements(driver, ProductDeatilsPage.class);
