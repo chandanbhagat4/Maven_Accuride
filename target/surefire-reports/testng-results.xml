@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34114" started-at="2020-01-09T10:53:09Z" finished-at="2020-01-09T10:53:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34114" started-at="2020-01-09T10:53:09Z" finished-at="2020-01-09T10:53:43Z">
+      <class name="com.mavenAccuride.test.BuyProductByNotLoggedInUser">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.mavenAccuride.test.BuyProductByNotLoggedInUser@6b2fad11]" name="browserLaunch" is-config="true" duration-ms="9037" started-at="2020-01-09T16:23:09Z" finished-at="2020-01-09T16:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="checkHomePageTitle()[pri:1, instance:com.mavenAccuride.test.BuyProductByNotLoggedInUser@6b2fad11]" name="checkHomePageTitle" duration-ms="121" started-at="2020-01-09T16:23:18Z" finished-at="2020-01-09T16:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePageTitle -->
+        <test-method status="PASS" signature="searchProductOnTheSearchbox()[pri:2, instance:com.mavenAccuride.test.BuyProductByNotLoggedInUser@6b2fad11]" name="searchProductOnTheSearchbox" duration-ms="20599" started-at="2020-01-09T16:23:18Z" finished-at="2020-01-09T16:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductOnTheSearchbox -->
+        <test-method status="PASS" signature="intialProductQuantity()[pri:3, instance:com.mavenAccuride.test.BuyProductByNotLoggedInUser@6b2fad11]" name="intialProductQuantity" duration-ms="2173" started-at="2020-01-09T16:23:38Z" finished-at="2020-01-09T16:23:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialProductQuantity -->
+        <test-method status="PASS" signature="increasingTheProductCountViaDirectField()[pri:5, instance:com.mavenAccuride.test.BuyProductByNotLoggedInUser@6b2fad11]" name="increasingTheProductCountViaDirectField" duration-ms="2177" started-at="2020-01-09T16:23:40Z" finished-at="2020-01-09T16:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- increasingTheProductCountViaDirectField -->
+      </class> <!-- com.mavenAccuride.test.BuyProductByNotLoggedInUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
