@@ -63,12 +63,12 @@ WebDriver driver;
 	}
 	
 	
-//	@Test(priority=5, enabled=false)
-//	public void increasingTheProductCountViaDirectField() throws InterruptedException
-//	{
-//		ProductDeatilsPage enteredProductQuanaty = PageFactory.initElements(driver, ProductDeatilsPage.class);
-//		Assert.assertEquals(enteredProductQuanaty.increaseTheProductCountViaInputField(), true);
-//	}
+	@Test(priority=5, enabled=false)
+	public void increasingTheProductCountViaDirectField() throws InterruptedException
+	{
+		ProductDeatilsPage enteredProductQuanaty = PageFactory.initElements(driver, ProductDeatilsPage.class);
+		Assert.assertEquals(enteredProductQuanaty.increaseTheProductCountViaInputField(), true);
+	}
 	
 //	@Test(priority=6, enabled=true)
 //	public void productAddToCart() throws InterruptedException
