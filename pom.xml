@@ -27,7 +27,7 @@
     
     <configuration>
      <suiteXmlFiles>
-     <suiteXmlFile>src/main/resources/BuyProductFromLogoutUser.xml</suiteXmlFile>
+     <suiteXmlFile>src/main/resources/BuyProductFromLogoutUsertestng.xml</suiteXmlFile>
      </suiteXmlFiles>
     </configuration>
    
