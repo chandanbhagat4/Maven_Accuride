@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.mavenAccuride.test.BuyProductByNotLoggedInUser"/>
+      <class name="com.mavenAccuride.test.BuyProductFromLogoutUser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -27,7 +27,7 @@
     
     <configuration>
      <suiteXmlFiles>
-     <suiteXmlFile>src/main/resources/BuyProductByNotLoggedInUsertestng.xml</suiteXmlFile>
+     <suiteXmlFile>src/main/resources/BuyProductFromLogoutUser.xml</suiteXmlFile>
      </suiteXmlFiles>
     </configuration>
    
